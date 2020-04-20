@@ -18,6 +18,6 @@ El archivo `good_example.js` muestra cómo aislar las responsabilidades, haciend
 
 Evitamos los "god object", que son objetos masivos que tienen montones de responsabilidades y terminan convirtiendose en código spaghetti, difícil de mantener.
 
-## Separación de intereses (falta, 8:26)
+## Separación de intereses
 
-// Code goes here
+Concepto que trata sobre separar un sistema por sus responsabilidades. Facilita su manejo y refactorización.
