@@ -10,4 +10,4 @@ Es modificar una parte del código que podría ya estar testeada, o en producci�
 
 ### Extensión
 
-Típicamente, significa *herencia*. Heredando de una clase padre, traer funcionalidad de ella y auttomáticamente adquirir algunas de sus funciones, propiedades... y añadir más código.
+Típicamente, significa *herencia*. Heredando de una clase padre, traer funcionalidad de ella y automáticamente adquirir algunas de sus funciones, propiedades... y añadir más código.
